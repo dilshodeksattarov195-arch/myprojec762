@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingselete",
+        "uuid": 6009894,
+        "checksum": "l7px8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
